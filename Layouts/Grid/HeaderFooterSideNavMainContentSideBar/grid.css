@@ -44,12 +44,3 @@ h1, h2 {
 .container > * {
     padding: 20px;
 }
-
-/* border-box fix */
-html {
-    box-sizing: border-box;
-  }
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
-  
